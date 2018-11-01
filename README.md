@@ -32,13 +32,13 @@ The final dataframe contains following columns: <br>
 
 ## Tables
 ### 10 highest-ranked countries: Ratio of politician articles to country population
-<img src="img/least-article-pop.png" width="100px">
+<img src="img/least-article-pop.png" width="300px">
 ### 10 lowest-ranked countries: ratio of article quality to article count
-![](img/top-article-pop.png)<!-- .element height="60%" width="60%" -->
+<img src="img/top-article-pop.png" width="300px">
 ### 10 lowest-ranked countries: ratio of article quality to article count
-![](img/least-quality-article.png)<!-- .element height="60%" width="60%" -->
+<img src="img/least-quality-article.png" width="300px">
 ### 10 highest-ranked countries: ratio of article quality to article count
-![](img/top-quality-article.png)<!-- .element height="60%" width="60%" -->
+<img src="img/top-quality-article.png" width="300px">
 
 
 ## Reflections
