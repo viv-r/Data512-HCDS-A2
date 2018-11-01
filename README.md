@@ -32,13 +32,13 @@ The final dataframe contains following columns: <br>
 
 ## Tables
 ### 10 highest-ranked countries: Ratio of politician articles to country population
-![](https://github.com/viv-r/Data512-HCDS-A2/img/least-article-pop.png)
+![](https://github.com/viv-r/Data512-HCDS-A2/blob/master/img/least-article-pop.png)
 ### 10 lowest-ranked countries: ratio of article quality to article count
-![](https://github.com/viv-r/Data512-HCDS-A2/img/top-article-pop.png)
+![](https://github.com/viv-r/Data512-HCDS-A2/blob/master/img/top-article-pop.png)
 ### 10 lowest-ranked countries: ratio of article quality to article count
-![](https://github.com/viv-r/Data512-HCDS-A2/img/least-quality-article.png)
+![](https://github.com/viv-r/Data512-HCDS-A2/blob/master/img/least-quality-article.png)
 ### 10 highest-ranked countries: ratio of article quality to article count
-![](https://github.com/viv-r/Data512-HCDS-A2/img/top-quality-article.png)
+![](https://github.com/viv-r/Data512-HCDS-A2/blob/master/img/top-quality-article.png)
 
 
 ## Reflections
