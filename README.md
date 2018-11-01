@@ -30,6 +30,17 @@ single dataframe, and is stored in the data-processed folder.
 The final dataframe contains following columns: <br>
 ```page	country	rev_id	population	predictions```
 
+## Tables
+### 10 highest-ranked countries: Ratio of politician articles to country population
+![](https://github.com/viv-r/Data512-HCDS-A2/img/least-article-pop.png)
+### 10 lowest-ranked countries: ratio of article quality to article count
+![](https://github.com/viv-r/Data512-HCDS-A2/img/top-article-pop.png)
+### 10 lowest-ranked countries: ratio of article quality to article count
+![](https://github.com/viv-r/Data512-HCDS-A2/img/least-quality-article.png)
+### 10 highest-ranked countries: ratio of article quality to article count
+![](https://github.com/viv-r/Data512-HCDS-A2/img/top-quality-article.png)
+
+
 ## Reflections
 
 ### What biases did you expect to find in the data, and why?
